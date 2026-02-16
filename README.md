@@ -17,8 +17,5 @@ A simple Instagram UI clone built using Flutter.
 - assets/
 - pubspec.yaml
 
-## 📸 Preview
-(Add screenshot here)
-
 ## 👨‍💻 Author
 Jeypaa
